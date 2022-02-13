@@ -1,6 +1,7 @@
 '''
 1. Definir una funcion max() que tome como
 argumento dos numeros y devuelva el mayor de ellos 
+
 '''
 from operator import truediv
 import re
